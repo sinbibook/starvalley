@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.9.0",
-    "generatedAt": "2026-10-29T08:51:40.305207287Z",
+    "version": "1.10.0",
+    "generatedAt": "2026-10-29T08:54:24.929291879Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a12b44-8592-74f6-920b-e6bfb4246466",
     "homepageId": "01a18597-7fb6-7491-99f0-b6cbd9c1c016"
@@ -15,7 +15,9 @@
     "address": "강원특별자치도 춘천시 남산면 갯골길 122 강촌 스타밸리 펜션",
     "latitude": 37.7968923728617,
     "longitude": 127.630099270484,
-    "contactPhone": [ ],
+    "contactPhone": [
+      "070-4630-6428"
+    ],
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -292,7 +294,7 @@
           {
             "id": "01a1852c-a962-71fd-bc23-732e3fa27d3d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/dr4b1Txm3DKJ.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -302,7 +304,7 @@
           {
             "id": "01a1852c-a962-7f03-a6c5-9932e8063a6f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/RGB0eDLk8CNX.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -310,7 +312,7 @@
           {
             "id": "01a1852c-a963-717e-81fb-d13ce3ef0921",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/1iMhZDyugR9N.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -318,7 +320,7 @@
           {
             "id": "01a1852c-a963-721a-b0f6-4562d9d7c33d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/Dytis0WVHav1.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -326,7 +328,7 @@
           {
             "id": "01a1852c-a963-7270-b13f-bc32ec18f3fd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/6cnS29RCNaHh.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -334,7 +336,7 @@
           {
             "id": "01a1852c-a963-72eb-91b3-5de6502d482e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/pEKauIzhYLC5.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -342,7 +344,7 @@
           {
             "id": "01a1852c-a963-7335-a65c-73eaa8bc3b0b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/Xcz5k3gtvMBq.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -350,7 +352,7 @@
           {
             "id": "01a1852c-a963-740a-bbeb-f0d9f6cffa7f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/qeChD9sFt7lI.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -358,7 +360,7 @@
           {
             "id": "01a1852c-a963-7462-b7b0-4065c1025b2a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/sU1zAOhpGo3Y.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -366,7 +368,7 @@
           {
             "id": "01a1852c-a963-74be-a8a2-e94e325d8b2f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/ukHPR126YyJQ.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -374,7 +376,7 @@
           {
             "id": "01a1852c-a963-75f6-8d48-d5297680c348",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/Ko7y4tkQGlUv.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -382,7 +384,7 @@
           {
             "id": "01a1852c-a963-769e-bd20-c242b42fbd78",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/NnQoBspT5fZG.jpg",
-            "sortOrder": 12,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -390,7 +392,7 @@
           {
             "id": "01a1852c-a963-76fc-b875-7b8f31f716a8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/BCvENrTyzDux.jpg",
-            "sortOrder": 13,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -398,7 +400,7 @@
           {
             "id": "01a1852c-a963-775a-9a68-e4a53f525f2c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/10/29/CpaE4tfQIRVk.jpg",
-            "sortOrder": 14,
+            "sortOrder": 12,
             "description": "",
             "isSelected": true,
             "blockId": null
