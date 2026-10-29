@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-10-29T07:40:27.003237831Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-10-29T07:42:12.031080797Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a12b44-8592-74f6-920b-e6bfb4246466",
     "homepageId": "01a18597-7fb6-7491-99f0-b6cbd9c1c016"
@@ -6381,6 +6381,15 @@
           "id": "01a15337-bd6c-7634-8498-1c14aa1f1476",
           "images": [
             {
+              "id": "01a1869b-edd4-774a-a81e-d7ed057b1d8f",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18597-7fb6-7491-99f0-b6cbd9c1c016/roomtype_thumbnail/1793259727196-0yjeikk3jb.jpg",
+              "sortOrder": 28,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a15337-bd6c-7634-8498-1c14aa1f1476",
+              "category": "roomtype_thumbnail"
+            },
+            {
               "id": "01a185c1-159f-7803-ba83-5bd5774d2a10",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18597-7fb6-7491-99f0-b6cbd9c1c016/roomtype_interior/1793245382364-pk858wncvr.jpg",
               "sortOrder": 16,
@@ -6599,6 +6608,15 @@
         {
           "id": "01a15337-bdf5-7292-b626-989d83ca15eb",
           "images": [
+            {
+              "id": "01a1869b-ec38-77d5-8079-d4ec9da221fc",
+              "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18597-7fb6-7491-99f0-b6cbd9c1c016/roomtype_thumbnail/1793259727195-lcxp22ktx6.jpg",
+              "sortOrder": 29,
+              "description": "",
+              "isSelected": true,
+              "blockId": "01a15337-bdf5-7292-b626-989d83ca15eb",
+              "category": "roomtype_thumbnail"
+            },
             {
               "id": "01a185c1-011b-78ac-b7f5-f1dfac4b9c21",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18597-7fb6-7491-99f0-b6cbd9c1c016/roomtype_interior/1793245373952-yj7eayim1f.jpg",
