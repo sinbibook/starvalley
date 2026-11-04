@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-11-03T06:16:24.438088030Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-11-04T08:55:37.465498830Z",
     "templateType": "full_banner_slider_group",
     "propertyId": "01a12b44-8592-74f6-920b-e6bfb4246466",
     "homepageId": "01a18597-7fb6-7491-99f0-b6cbd9c1c016"
   },
   "property": {
     "id": "01a12b44-8592-74f6-920b-e6bfb4246466",
-    "name": "춘천 강촌 스타밸리 스파 펜션",
+    "name": "춘천(남이섬) 강촌 스타밸리 스파 펜션",
     "nameEn": "Chuncheon Star Valley Pension",
     "description": "야외 수영장과 바베큐 시설을 갖추어, 가족이나 연인, 단체 모임 모두가 여유로운 휴식을 즐길 수 있는 강촌 스파 펜션, 춘천 강촌스타밸리입니다",
     "subtitle": "",
@@ -6030,7 +6030,7 @@
         }
       },
       "property": {
-        "name": "춘천 강촌 스타밸리 스파 펜션",
+        "name": "춘천(남이섬) 강촌 스타밸리 스파 펜션",
         "images": [
           {
             "id": "01a185a5-aa9a-73e7-bd59-bf9b19e3e6d1",
